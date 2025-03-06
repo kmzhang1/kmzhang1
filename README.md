@@ -1,12 +1,18 @@
-## Hi there 👋
-I'm Kyle Zhang
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi 👋, I'm Kyle!</h1>
+<h3 align="center">A software engineer passionate about GenAI and RAG!</h3>
+
+- 🔭 I’m currently working on **some personal projects**
+
+- 🌱 I’m currently learning **GraphRAG**
+
+- 👨‍💻 All of my projects are available at [https://github.com/kmzhang1](https://github.com/kmzhang1)
+
+- 💬 Ask me about **ML, AI, RAG Pipelines, LLMs, GenAI, Image Generation, Life**
+
+- 📫 How to reach me **https://www.linkedin.com/in/kyle-zhang-3a6551194/**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmzhang1&show_icons=true&locale=en&layout=compact" alt="kmzhang1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmzhang1&show_icons=true&locale=en" alt="kmzhang1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmzhang1&" alt="kmzhang1" /></p>
