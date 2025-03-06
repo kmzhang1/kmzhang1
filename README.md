@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GraphRAG**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kmzhang1](https://github.com/kmzhang1)
+- 👨‍💻 All of my projects are available at [https://github.com/kmzhang1](https://github.com/kmzhang1) and at [https://github.com/kylez56789](https://github.com/kylez56789)
 
 - 💬 Ask me about **ML, AI, RAG Pipelines, LLMs, GenAI, Image Generation, Life**
 
