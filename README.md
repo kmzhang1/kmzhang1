@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyle!</h1>
 <h3 align="center">A software engineer passionate about GenAI and RAG!</h3>
 
-- 🔭 I’m currently working on **some personal projects**
+- 🔭 I’m currently working on **IronPath, an AI-Powered Powerlifting Program Planner**
 
 - 🌱 I’m currently learning **GraphRAG**
 
